@@ -73,7 +73,7 @@
                                 </select>
                             </div>
                             <div class="form-group ">
-                            <input type="number" class="form-control" placeholder="MENU PRICE " id="menu_price" maxlength="4" min=0 max=9999 required />
+                                <input type="number" class="form-control" placeholder="MENU PRICE " id="menu_price" maxlength="4" min=0 max=9999 required />
 
                             </div>
                             <div class="form-group ">
@@ -95,8 +95,5 @@
         }
     </style>
 </body>
-
-</html>
-
 
 </html>
